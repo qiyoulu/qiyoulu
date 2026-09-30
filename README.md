@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=qiyoulu&hide_rank=true&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=qiyoulu&hide_rank=true&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=qiyoulu&layout=compact&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=qiyoulu&layout=compact&langs_count=4&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=qiyoulu&layout=compact&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=qiyoulu&layout=compact&theme=transparent)
